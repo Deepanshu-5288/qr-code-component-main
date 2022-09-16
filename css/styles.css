@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    background-color: hsl(212, 45%, 89%);
+    text-align: center;
+}
+.card{
+    width: 280px;
+    margin:80px auto;
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px;
+}
+.img{
+    width: 100%;
+    border-radius: 10px;
+}
+.text-section{
+    padding:0 10px;
+    font-size: 15px;
+    font-family: 'Outfit', sans-serif;
+
+
+}
+
+.footer{
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    background-color: #2C7DFA;
+    padding: 10px 0;
+}
